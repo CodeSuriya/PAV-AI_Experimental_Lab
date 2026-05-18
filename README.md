@@ -1,0 +1,1 @@
+This repository contains operational analysis, inventory management, automation concepts, dashboard systems, and AI-oriented business improvement projects developed as part of practical business operations learning and implementation.
